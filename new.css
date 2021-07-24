@@ -1,0 +1,25 @@
+
+.left
+ {        
+    background-color :white;
+    width:50%;
+    height:900px;
+    float:left;
+    margin: 0%;
+    margin-block-start: 0em;
+ }
+ .right
+ {
+    margin-left: 44px;
+    border: black;
+    border: solid 5px;
+    float: left;
+    width: 40%;
+    height: 700px;
+    margin-top: 50px;
+    border-radius: 15px;
+ }
+ .form
+ {
+     margin-left: 100px;
+ }

@@ -1,0 +1,41 @@
+.Header
+{
+    width: 100%;
+    height: 85px;
+    background-color: darkblue;
+}
+body
+{
+    margin: 0%;
+}
+.LeftHeader
+{
+    width: 50%;
+    height: 85px;
+    float: left;
+}
+.RightHeader
+{
+    width: 50%;
+    height: 85px;
+    float: left;
+}
+.Logo
+{
+    color: white; 
+    font-size: 45px;
+    margin-left: 150px;
+    margin-top: 14px;
+    margin-block-end: 0em;
+}
+.ButtonLogIn
+{
+    color: white;
+    background-color: darkblue;
+    font-weight: bold;
+}
+.table1
+{
+    margin-left: 107px;
+    margin-top: 7px;
+}

@@ -1,0 +1,67 @@
+.MainBody
+{
+    width: 100%;
+    height: 565px;
+    background: #388DDF;
+    background: -webkit-linear-gradient(bottom, #388DDF, #F7F2F6);
+    background: -moz-linear-gradient(bottom, #388DDF, #F7F2F6);
+    background: linear-gradient(to top, #388DDF, #F7F2F6);
+}
+.LeftMainBody
+{
+    width: 50%;
+    height: 565px;
+    float: left;
+}
+.RightMainBody
+{
+    width: 50%;
+    height: 565px;
+    float: left;
+}
+.motive
+{
+    color: darkblue;
+    font-weight: bold;
+    margin-left: 150px;
+    font-size: 20px;
+    margin-top: 27px;
+}
+.img
+{
+    width: 600px;
+    height: 300px;
+    margin-left: 150px;
+}
+.quote1
+{
+    color: black;
+    margin-left: 75px;
+    font-size: 37px;
+    margin-top: 16px;
+}
+.quote2
+{
+    color: black;
+    margin-left: 75px;
+    font-size: 30px;
+    margin-top:-29px;
+}
+.signup
+{
+    color: black;
+    background-color: green;
+    font-size: 30px;
+    margin-left: 107px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.table2
+{
+    margin-left: 80px;
+}
+.Celebrity
+{
+    font-size: 15px;
+    margin-left:13px;
+}
